@@ -1,0 +1,2 @@
+# Solution
+Javarush testTask
